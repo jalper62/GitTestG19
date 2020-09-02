@@ -6,6 +6,9 @@
 # /がフォルダの前に無いと、そのフォルダを全て無視
 MOVIE/
 
+# MUSICフォルダは無視
+MUSIC/
+
 # Fireworks.mp4は管理したい！
 !/MOVIE/Fireworks.mp4
 
